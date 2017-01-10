@@ -1,6 +1,6 @@
 {
-  "name": "gavin-apache",
-  "version": "0.1.0",
+  "name": "orrgd-apache",
+  "version": "1.0.0",
   "author": "gavin",
   "summary": "pretty mch crap",
   "license": "Apache 2.0",
@@ -11,4 +11,3 @@
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
 }
-
